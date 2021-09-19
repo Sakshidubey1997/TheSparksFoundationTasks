@@ -6,6 +6,8 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 In this internship, we were provided a total of 8 Tasks and I was able to successfully complete 4 tasks within the given time-frame.
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-1_Linear_Regression.ipynb)
+
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
@@ -14,8 +16,8 @@ In this internship, we were provided a total of 8 Tasks and I was able to succes
 1. Data can be found at (http://bit.ly/w-data)
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
-
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-1_Linear_Regression.ipynb)
+ 
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-2_Clustering.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
@@ -23,7 +25,8 @@ In this internship, we were provided a total of 8 Tasks and I was able to succes
 1. Use R or Python or perform this task.
 1. Data can be found at (https://bit.ly/3kXTdox)
 
-(https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-2_Clustering.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-3_Decision_Tree.ipynb)
+
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
@@ -31,7 +34,7 @@ In this internship, we were provided a total of 8 Tasks and I was able to succes
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at (https://bit.ly/3kXTdox)
 
-(https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-3_Decision_Tree.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task%204%20-%20Exploratory%20Data%20Analysis%20-%20Superstore.twb)
 
 
 ### # Task-4 : To Explore Business Analytics (Level - Beginner & Intermediate)
@@ -43,7 +46,6 @@ In this internship, we were provided a total of 8 Tasks and I was able to succes
 1. Dataset link (https://bit.ly/3i4rbWl)
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-(https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task%204%20-%20Exploratory%20Data%20Analysis%20-%20Superstore.twb)
 
 
 
