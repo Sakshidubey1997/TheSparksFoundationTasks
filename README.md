@@ -15,7 +15,7 @@ In this internship, we were provided a total of 8 Tasks and I was able to succes
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
 
-(https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task-1_Linear_Regression.ipynb)
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
