@@ -34,17 +34,7 @@ In this internship, we were provided a total of 8 Tasks and I was able to succes
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at (https://bit.ly/3kXTdox)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/Sakshidubey1997/TheSparksFoundationTasks/blob/main/Task%204%20-%20Exploratory%20Data%20Analysis%20-%20Superstore.twb)
 
-
-### # Task-4 : To Explore Business Analytics (Level - Beginner & Intermediate)
-
-1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
-1. As a business manager, try to find out the weak areas where you can work to make more profit.
-1. What all business problems you can derive by exploring the data?
-1. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-1. Dataset link (https://bit.ly/3i4rbWl)
-1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
 
 
